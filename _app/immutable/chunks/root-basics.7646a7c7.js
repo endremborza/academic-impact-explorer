@@ -1,0 +1,1 @@
+const t=[{entity_type:"countries",prefix:"🌍",default_tree:"qc-2c",start_sentence:"Scholars in"},{entity_type:"institutions",prefix:"🏛",default_tree:"qc-2",start_sentence:"Scholars at"},{entity_type:"authors",prefix:"👤",default_tree:"qca-2",start_sentence:"Papers of"}];export{t as r};
