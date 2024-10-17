@@ -1,0 +1,1 @@
+const s="Rankless",t="https://tmp-borza-public-cyx.s3.amazonaws.com/quercus-basis-v2024-06-26",a="http://0.0.0.0:3030",c="institutions",o="attribute-statics",n=10,E=4,T=1950;export{s as A,a as B,T as C,n as D,c as I,E as M,t as S,o as a};
